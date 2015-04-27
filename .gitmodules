@@ -1,3 +1,5 @@
 [submodule "public"]
 	path = public
 	url = https://github.com/albinyewen/albinyewen.github.io.git
+	ignore = all
+	fetchRecurseSubmodules = false

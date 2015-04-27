@@ -16,6 +16,7 @@ More info: [Writing](http://hexo.io/docs/writing.html)
 
 ``` bash
 $ hexo server
+// $ hexo s
 ```
 
 More info: [Server](http://hexo.io/docs/server.html)
