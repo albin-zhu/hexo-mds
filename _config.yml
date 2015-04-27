@@ -3,16 +3,16 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
-description:
-author: John Doe
-language:
-timezone:
+title: Albin's blog
+subtitle: PK vs bugs
+description: 填过的坑,葬过的坟
+author: albin
+language: zh_CN
+timezone: 
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://albinyewen.github.io
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
